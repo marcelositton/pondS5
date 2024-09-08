@@ -1,4 +1,3 @@
-### Exemplo de Plano de Cutover
 
 **1. Descrição do Projeto e Link**
 
