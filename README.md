@@ -1,7 +1,7 @@
 
 **1. Descrição do Projeto e Link**
 
-O plano de cutover escolhido refere-se a uma estratégia de implementação do sistema SAP na empresa Mphasis, uma companhia global especializada em serviços e soluções de tecnologia, focada em áreas como digital, governança e compliance de risco. O documento aborda a transição de um sistema antigo para o SAP e os passos necessários para garantir uma migracão eficiente. Ele descreve desde a preparacão do projeto e a análise dos processos de negócio, até as configuracões e testes na fase de Realização, incluindo a migração de dados, o treinamento dos usuários e o suporte aoós a mudança
+O plano de cutover escolhido refere-se a uma estratégia de implementação do sistema SAP na empresa Mphasis, uma companhia global especializada em serviços e soluções de tecnologia, focada em áreas como digital, governança e compliance de risco. O documento aborda a transição de um sistema antigo para o SAP e os passos necessários para garantir uma migracão eficiente. Ele descreve desde a preparacão do projeto e a análise dos processos de negócio, até as configuracões e testes na fase de realização, incluindo a migração de dados, o treinamento dos usuários e o suporte aoós a mudança
 
 
 
