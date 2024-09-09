@@ -22,7 +22,7 @@ Os principais elementos do plano de cutover incluem:
 
 1. **Detalhamento Completo:** O plano é bem detalhado, abordando todas as fases do cutover, o que ajuda a minimizar riscos e garantir uma transição perfeita.
 2. **Foco em Treinamento:** Inclui um componente forte de treinamento e suporte, o que é crucial para garantir que os usuários se adaptem rapidamente ao novo sistema.
-3. **Testes Abrangentes:** Realiza testes abrangentes antes da execução, o que permiti a identificação e correção de  potenciais problemas.
+3. **Testes Abrangentes:** Realiza testes abrangentes antes da execução, o que permite a identificação e correção de  potenciais problemas.
 
 **Pontos Negativos:**
 
